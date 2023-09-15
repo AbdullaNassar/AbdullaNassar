@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div>
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</div>
 
 <h1 dir="auto">About me</h1>
 <ul>
   <li dir="auto">Software Engineer with strong fundamentals of Software Development (data structures, algorithms, and problem-solving.</li>
   <li dir="auto">Interested in front-end development, building web pages using React.js. creating responsive pages and applying best practices.</li>
-  <li dir="auto">particibitaed at Egyptian colligiete programmig contest (ECPC Finalist).</li>
+  <li dir="auto">Competitive programmer, participated at Egyptian colligiete programmig contest (ECPC Finalist).</li>
   <li dir="auto">Solve +1500 problems in different online judges(codeforces, leetcode).</li>
 </ul>
 
-- 👨‍💻 All of my projects are available at <a href="#">My portofolio</a>
+- 👨‍💻 You can visit <a href="#">MY WEBSITE</a>
 
 - 💬 Ask me about **Data structure, Algorithms, React.js**
 
-- 📫 How to reach me **abdallahmoemen44@gmail.com**
+- 📄 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1-Y3EceE1Jn6Y1hJiPP5kHswJoxCT_LDE/view">My resume</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-Y3EceE1Jn6Y1hJiPP5kHswJoxCT_LDE/view">My resume</a>
+- 📫 How to reach me **abdallahmoemen44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
