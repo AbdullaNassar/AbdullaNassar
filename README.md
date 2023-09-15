@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<div style="display: flex; justify-content: center; align-items:center" >
+<div align="center">
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </div>
 
