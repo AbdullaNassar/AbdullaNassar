@@ -12,11 +12,11 @@
   <li dir="auto">Solve +1500 problems in different online judges(codeforces, leetcode).</li>
 </ul>
 
-- 👨‍💻 You can visit <a href="https://abdullahmoemen.surge.sh/">MY WEBSITE</a>
+- 👨‍💻 You can visit <a href="https://abdullah-moemen.netlify.app/">MY WEBSITE</a>
 
 - 💬 Ask me about **Data structure, Algorithms, React.js**
 
-- 📄 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/17qQHDImvgNUNa7VaQUzIoe6kMDtbNk7p/view">My resume</a>
+- 📄 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1FmYIkDxaNj43apIIpZQTf_Vsfi4jvZt4/view?usp=sharing">My resume</a>
 
 - 📫 How to reach me **abdallahmoemen44@gmail.com**
 
