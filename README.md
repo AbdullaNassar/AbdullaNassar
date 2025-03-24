@@ -12,20 +12,20 @@
   <li dir="auto">Solve +1500 problems in different online judges(codeforces, leetcode).</li>
 </ul>
 
-- 👨‍💻 You can visit <a href="https://abdullah-moemen.netlify.app/">MY WEBSITE</a>
+- 👨‍💻 You can visit <a target="_blank"  href="https://abdullah-moemen.netlify.app/">MY WEBSITE</a>
 
 - 💬 Ask me about **Data structure, Algorithms, React.js**
 
-- 📄 I’m currently open for a new job opportunity, this is <a href="https://drive.google.com/file/d/1FmYIkDxaNj43apIIpZQTf_Vsfi4jvZt4/view?usp=sharing">My resume</a>
+- 📄 I’m currently open for a new job opportunity, this is <a target="_blank" href="https://drive.google.com/file/d/1FmYIkDxaNj43apIIpZQTf_Vsfi4jvZt4/view?usp=sharing">My resume</a>
 
 - 📫 How to reach me **abdallahmoemen44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdallah moemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallah moemen" height="30" width="40" /></a>
-<a href="https://fb.com/abdallah moemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallah moemen" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdallah_moemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdallah_moemen" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdullah momen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah momen" height="30" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/abdallah moemen" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallah moemen" height="30" width="40" /></a>
+<a href="https://fb.com/abdallah moemen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallah moemen" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/abdallah_moemen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdallah_moemen" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdullah momen"target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah momen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
