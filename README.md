@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Data structure, Algorithms, React.js**
 
-- 📄 I’m currently open for a new job opportunity, this is <a target="_blank" href="https://drive.google.com/file/d/1FmYIkDxaNj43apIIpZQTf_Vsfi4jvZt4/view?usp=sharing">My resume</a>
+- 📄 I’m currently open for a new job opportunity, this is <a target="_blank" href="https://drive.google.com/file/d/1_3RmspGQzKd7S_T8iCyoTgumZVrEDSj2/view?usp=drive_link">My resume</a>
 
 - 📫 How to reach me **abdallahmoemen44@gmail.com**
 
