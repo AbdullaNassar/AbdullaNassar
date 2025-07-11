@@ -1,5 +1,4 @@
-<h1 align="center">I'm Abdullah, Full Stack Developer</h1>
-<br/>
+<h1 align="center">I'm Abdullah, Full Stack Developer</h1><br/>
 
 # 💫 About Me:
 - Software engineer with strong problem-solving skills gained by competing in top-tier competitions for 3+ years.
