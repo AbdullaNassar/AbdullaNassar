@@ -7,7 +7,7 @@
 - Take a look at [my resume](https://drive.google.com/file/d/1YNp_LH306DI35xKCyo_Es0WLj77sI2Ue/view?usp=sharing)
 - Checj out [my portfolio](https://abdullah-moemen.netlify.app/)<br> 
 
-## 🌐 Socials:
+## 🌐 Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-moemen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdallahmoemen44@gmail.com) 
 
 # 💻 Tech Stack:
