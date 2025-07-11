@@ -4,7 +4,7 @@
 - Software engineer with strong problem-solving skills gained by competing in top-tier competitions for 3+ years.
 - Specializing in full-stack development using MERN stack.
 - Gained hands-on experience with Node.js, React.js, JavaScript, HTML, CSS, and Tailwind CSS through working on large-scale projects.
-- Take a look at [my resume](https://drive.google.com/file/d/1SDyYuxwrP96XxIBTO35eSpCHuBd0s7Wt/view?usp=sharing)
+- Take a look at [my resume](https://drive.google.com/file/d/1YNp_LH306DI35xKCyo_Es0WLj77sI2Ue/view?usp=sharing)
 - Checj out [my portfolio](https://abdullah-moemen.netlify.app/)<br> 
 
 ## 🌐 Socials:
